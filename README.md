@@ -53,17 +53,12 @@ URL:[https://imagetovideomaker.com/ai-logo-reveal-video-maker](https://imagetovi
 Site: ImageToVideoMaker.com  
 Model: Veo  3
 
-- Street Interview
-
-URL:[https://imagetovideomaker.com/ai-street-interview](https://imagetovideomaker.com/ai-street-interview)  
-Site: ImageToVideoMaker.com  
-Model: Not specified
 
 - Street Interview
 
 URL:[https://imagetovideomaker.com/ai-street-interview](https://imagetovideomaker.com/ai-street-interview)  
 Site: ImageToVideoMaker.com  
-Model: Not specified
+Model: Veo 3
 
 - Model dressing video
 
