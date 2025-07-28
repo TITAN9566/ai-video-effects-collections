@@ -3,46 +3,56 @@ This repository aims to collect interesting and useful AI video effects and temp
 
 ## Entertainment
 
+- Muscle video 
+
+URL: [https://pollo.ai/app?target=video-effec...](https://pollo.ai/app?target=video-effects&code=ai-muscle-generator&projectId=cmdi5cxun03qrirdp664efj8k)
+Source: pollo.ai
+Model: Not specified
+
+URL: [https://imagetovideomaker.com/muscle-video-maker](https://imagetovideomaker.com/muscle-video-maker)
+Source: ImageToVideoMaker.com
+Model: Kling 2.1 master
+
 - AI Twerk
 
 URL: [https://www.clipfly.ai/aitools/scene?c=twerk](https://www.clipfly.ai/aitools/scene?c=twerk)   
-Site: Clipfly.ai   
+Source: Clipfly.ai   
 Model: Not specified
 
 URL: [https://pollo.ai/app?target=video-effects&code=ai-twerk-video-generator&projectId=cmdi5cxun03qrirdp664efj8k](https://pollo.ai/app?target=video-effects&code=ai-twerk-video-generator&projectId=cmdi5cxun03qrirdp664efj8k)  
-Site: pollo.ai   
+Source: pollo.ai   
 Model: Not specified
 
 - ASMR video effect
 
 URL: [https://imagetovideomaker.com/ai-asmr-maker](https://imagetovideomaker.com/ai-asmr-maker)  
-Site: ImageToVideoMaker.com   
+Source: ImageToVideoMaker.com   
 Model: Veo 3
 
 - AI Kiss
 
 URL:[https://pollo.ai/app?target=video-effects&code=ai-kissing&projectId=cmdi5cxun03qrirdp664efj8k](https://pollo.ai/app?target=video-effects&code=ai-kissing&projectId=cmdi5cxun03qrirdp664efj8k)  
-Site: pollo.ai  
+Source: pollo.ai  
 Model: Not specified
 
 URL:[https://www.clipfly.ai/aitools/scene?c=french-kiss](https://www.clipfly.ai/aitools/scene?c=french-kiss)     
-Site: Clipfly.ai      
+Source: Clipfly.ai      
 Model: Not specified
 
 URL:[https://imagetovideomaker.com/ai-kiss-video-maker](https://imagetovideomaker.com/ai-kiss-video-maker)  
-Site: ImageToVideoMaker.com   
+Source: ImageToVideoMaker.com   
 Model: Not specified
 
 - BigFoot Vlog Video Effects
 
 URL:[https://imagetovideomaker.com/bigfoot-vlog-maker](https://imagetovideomaker.com/bigfoot-vlog-maker)  
-Site: ImageToVideoMaker.com    
+Source: ImageToVideoMaker.com    
 Model: Not specified
 
 - Godzilla breathes fire video effect
 
 URL:[https://imagetovideomaker.com/ai-godzilla-breathes-fire-video-maker](https://imagetovideomaker.com/ai-godzilla-breathes-fire-video-maker)    
-Site: ImageToVideoMaker.com  
+Source: ImageToVideoMaker.com  
 Model: Not specified
 
 ## Ads & commercials
@@ -50,20 +60,27 @@ Model: Not specified
 - Logo reveal video
 
 URL:[https://imagetovideomaker.com/ai-logo-reveal-video-maker](https://imagetovideomaker.com/ai-logo-reveal-video-maker)  
-Site: ImageToVideoMaker.com  
+Source: ImageToVideoMaker.com  
 Model: Veo  3
 
 
 - Street Interview
 
 URL:[https://imagetovideomaker.com/ai-street-interview](https://imagetovideomaker.com/ai-street-interview)  
-Site: ImageToVideoMaker.com  
+Source: ImageToVideoMaker.com  
 Model: Veo 3
 
 - Model dressing video
 
 URL:[https://imagetovideomaker.com/ai-model-dressing-video-maker](https://imagetovideomaker.com/ai-model-dressing-video-maker)  
-Site: ImageToVideoMaker.com  
+Source: ImageToVideoMaker.com  
+Model: Not specified
+
+
+- AI Food Praise Video 
+
+URL:[https://imagetovideomaker.com/ai-food-praise-video-maker](https://imagetovideomaker.com/ai-food-praise-video-maker)   
+Source: ImageToVideoMaker.com
 Model: Not specified
 
 ## Digital humans
