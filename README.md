@@ -2,15 +2,61 @@
 This repository aims to collect interesting and useful AI video effects and templates. Contributions are welcome!
 
 ## Entertainment
+     
+- Dance in mouth
 
-- Muscle video 
+URL: [https://imagetovideomaker.com/ai-dancing-in-mouth-video-maker](https://imagetovideomaker.com/ai-dancing-in-mouth-video-maker)                       
+Source: ImageToVideoMaker.com
+Model: KLing 2.1 master
 
-URL: [https://pollo.ai/app?target=video-effec...](https://pollo.ai/app?target=video-effects&code=ai-muscle-generator&projectId=cmdi5cxun03qrirdp664efj8k)
+- AI Hug video
+
+URL: [https://imagetovideomaker.com/ai-hug-video-maker](https://imagetovideomaker.com/ai-hug-video-maker)  
+Source: ImageToVideoMaker.com
+Model: Not specified
+
+URL:[https://pollo.ai/video-effects/ai-hug](https://pollo.ai/video-effects/ai-hug)  
 Source: pollo.ai
 Model: Not specified
 
-URL: [https://imagetovideomaker.com/muscle-video-maker](https://imagetovideomaker.com/muscle-video-maker)
+
+- AI handshake video effect
+
+URL: [https://pollo.ai/video-effects/ai-handshake](https://pollo.ai/video-effects/ai-handshake)   
+Source: pollo.ai  
+Model: Not specified
+
+- TikTok Trending Video maker 
+
+URL: [https://aivideomaker.ai](https://aivideomaker.ai)  
+Source: aivideomaker.ai  
+Model: Not specified
+
+- AI Hair Color Change
+
+URL:[https://pollo.ai/video-effects/hair-color-change](https://pollo.ai/video-effects/hair-color-change)        
+Source: pollo.ai  
+Model: Not specified
+
+URL:[https://imagetovideomaker.com/red-or-white-video-maker](https://imagetovideomaker.com/red-or-white-video-maker)  
+Source: ImageToVideoMaker.com  
+Model: KLing 2.1 master
+         
+                      
+- AI Dance in mouth
+
+URL: [https://imagetovideomaker.com/ai-dancing-in-mouth-video-maker](https://imagetovideomaker.com/ai-dancing-in-mouth-video-maker)  
 Source: ImageToVideoMaker.com
+Model: Kling 2.1 master
+
+- Muscle video 
+
+URL: [https://pollo.ai/app?target=video-effec...](https://pollo.ai/app?target=video-effects&code=ai-muscle-generator&projectId=cmdi5cxun03qrirdp664efj8k)   
+Source: pollo.ai   
+Model: Not specified   
+
+URL: [https://imagetovideomaker.com/muscle-video-maker](https://imagetovideomaker.com/muscle-video-maker)   
+Source: ImageToVideoMaker.com  
 Model: Kling 2.1 master
 
 - AI Twerk
